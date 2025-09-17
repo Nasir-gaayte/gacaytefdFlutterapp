@@ -1,10 +1,7 @@
-import 'dart:isolate';
 
 import 'package:flutter/material.dart';
 
 import 'package:flutter_carousel_slider/carousel_slider.dart';
-import 'package:flutter_carousel_slider/carousel_slider_indicators.dart';
-import 'package:flutter_carousel_slider/carousel_slider_transforms.dart';
 import 'package:gacayte_f_d/pages/cabitaan.dart';
 import 'package:gacayte_f_d/pages/cart.dart';
 import 'package:gacayte_f_d/pages/casho.dart';

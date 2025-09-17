@@ -1,6 +1,5 @@
 import 'package:contactus/contactus.dart';
 import 'package:flutter/material.dart';
-import 'package:gacayte_f_d/api/categoryApi.dart';
 import 'package:gacayte_f_d/api/itemApi.dart';
 import 'package:gacayte_f_d/pages/cart.dart';
 import 'package:google_fonts/google_fonts.dart';
